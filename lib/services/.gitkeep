@@ -1,0 +1,2 @@
+// Services directory — business logic and API layer for UrbanNexus.
+// Add service classes here (e.g. LocationService, HeatMapService, WeatherService).
